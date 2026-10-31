@@ -1,0 +1,20 @@
+# Never commit anything from the game or third-party downloads
+SubCulture/
+*.bin
+*.BIN
+*.img
+*.iso
+*.cue
+*.CUE
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.zip
+*.ogg
+*.wav
+*.cfg
+*.CFG
+__pycache__/
